@@ -19,12 +19,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/EzChat.png",
+        "backgroundColor": "#20262E"
+      },
+      "package": "com.ezhook.EzChat"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8bfb0b54-05d5-4238-9060-49c80fa4e35c"
+      }
     }
   }
 }
